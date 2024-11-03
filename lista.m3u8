@@ -1,7 +1,13 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/mudstein/XML-EPG-LAT/refs/heads/master/siptv.xml,https://raw.githubusercontent.com/InfoTV-CL/INFOCLTV/main/guia-de-programacion.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mudstein/XML-EPG-LAT/refs/heads/master/siptv.xml,http://zapallo.ddns.net:3000/epg/guia-de-programacion.xml"
 
 #EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="Canal 13 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal_13_Chile_2018.svg/revision/latest?cb=20210315190928&path-prefix=es"  group-title="Nacionales", Canal 13
 http://190.102.246.93:9005/play/a00m
 
 #EXTINF:-1 tvg-id="0844" tvg-name="Universal Premiere - Este" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest?cb=20220311031855"  group-title="Series y Películas", Universal Premiere Este
 http://200.115.96.66:4000/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-id="0844" tvg-name="Universal Premiere - Este" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest?cb=20220311031855"  group-title="Series y Películas", Universal Premiere Este
+http://200.115.96.66:4000/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium" group-title="Deportes", TNT Sports Premium
+http://190.102.246.93:9005/play/a025

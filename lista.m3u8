@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/mudstein/XML-EPG-LAT/refs/heads/master/CL.xm"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mudstein/XML-EPG-LAT/refs/heads/master/siptv.xml,https://raw.githubusercontent.com/InfoTV-CL/INFOCLTV/main/guia-de-programacion.xml"
 
 #EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="CL - Canal 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="NACIONALES", Canal 13
 http://190.102.246.93:9005/play/a00m

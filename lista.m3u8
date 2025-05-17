@@ -1,16 +1,22 @@
 #EXTM3U url-tvg="https://impeditor.com/epg/capanueve/capanueve"
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo=""  group-title="Series y Películas", A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo=""  group-title="Series y Películas", A&E
 http://190.102.246.93:9005/play/a048
 
-#EXTINF:-1 tvg-id="" tvg-name="A3S HD" tvg-logo=""  group-title="Series y Películas", A3S
+#EXTINF:-1 tvg-id="" tvg-name="A3S" tvg-logo=""  group-title="Series y Películas", A3S
 http://190.102.246.93:9005/play/a00p
 
-#EXTINF:-1 tvg-id="1836" tvg-name="AMC HD" tvg-logo=""  group-title="Series y Películas", AMC
+#EXTINF:-1 tvg-id="1836" tvg-name="AMC" tvg-logo=""  group-title="Series y Películas", AMC
 http://190.102.246.93:9005/play/a04o
 
-#EXTINF:-1 tvg-id="0107" tvg-name="Canal 13 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal_13_Chile_2018.svg/revision/latest?cb=20210315190928&path-prefix=es"  group-title="Nacionales", Canal 13
+#EXTINF:-1 tvg-id="0107" tvg-name="Canal 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal_13_Chile_2018.svg/revision/latest?cb=20210315190928&path-prefix=es"  group-title="Nacionales", Canal 13
 http://190.102.246.93:9005/play/a05v
+
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2" tvg-logo=""  group-title="Series y Películas", ESPN 2
+http://190.102.246.93:9005/play/a02n
+
+#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium" tvg-logo=""  group-title="Series y Películas", ESPN Premium
+http://190.102.246.93:9005/play/a00x
 
 #EXTINF:-1 tvg-id="0844" tvg-name="Universal Premiere Este" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest?cb=20220311031855"  group-title="Series y Películas", Universal Premiere Este
 http://200.115.96.66:4000/play/a034/index.m3u8

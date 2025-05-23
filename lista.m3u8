@@ -24,7 +24,7 @@ http://190.102.246.93:9005/play/a02n
 #EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium" tvg-logo=""  group-title="Series y Películas", ESPN Premium
 http://190.102.246.93:9005/play/a00x
 
-#EXTINF:-1 tvg-id="0302" tvg-name="ETC" tvg-logo=""  group-title="Anime", Senpai ETC
+#EXTINF:-1 tvg-id="0302" tvg-name="ETC" tvg-logo=""  group-title="Anime", ETC
 http://45.238.146.131:8008/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-id="1813" tvg-name="HBO" tvg-logo=""  group-title="Series y Películas", HBO
@@ -52,10 +52,10 @@ http://45.184.87.142:8000/play/a021
 http://190.102.246.93:9005/play/a025
 
 #EXTINF:-1 tvg-id="0844" tvg-name="Universal Premiere Este" tvg-logo=""  group-title="Series y Películas", Universal Premiere Este
-http://190.107.137.235:8000/play/a04s/index.m3u8
+http://181.78.106.127:9000/play/a0qu/index.m3u8
 
 #EXTINF:-1 tvg-id="1844" tvg-name="Universal Premiere Oeste" tvg-logo=""  group-title="Series y Películas", Universal Premiere Oeste
-http://190.107.137.235:8000/play/a04t/index.m3u8
+http://181.78.106.127:9000/play/a0qv/index.m3u8
 
 #EXTINF:-1 tvg-id="0112" tvg-name="Via X" tvg-logo=""  group-title="Nacionales", Via X
 http://207.248.2.105:3200/play/a0x1/index.m3u8

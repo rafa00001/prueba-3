@@ -62,3 +62,6 @@ http://207.248.2.105:3200/play/a0x1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Via X Esports" tvg-logo=""  group-title="Anime", Via X Esports
 http://207.248.2.105:3200/play/a0r5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo=""  group-title="Mexico", Azteca 7
+http://45.68.35.218:4001/play/a006/index.m3u8

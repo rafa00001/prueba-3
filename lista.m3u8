@@ -24,6 +24,9 @@ http://190.102.246.93:9005/play/a02z
 #EXTINF:-1 tvg-id="0107" tvg-name="Canal 13" tvg-logo=""  group-title="Nacionales", Canal 13
 http://190.102.246.93:9005/play/a05v
 
+#EXTINF:-1 tvg-id="" tvg-name="Canal Infantil" tvg-logo=""  group-title="Infantil", Canal Infantil
+http://190.102.246.93:9005/play/a03c
+
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo=""  group-title="Infantil", Cartoon Network
 http://190.102.246.93:9005/play/a01c
 
@@ -90,14 +93,20 @@ http://45.68.35.218:4001/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC" tvg-logo=""  group-title="Anime", ETC
 http://45.238.146.131:8008/play/a074/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo=""  group-title="Series y Películas", FX
+http://190.102.246.93:9005/play/a01v
+
 #EXTINF:-1 tvg-id="1813" tvg-name="HBO" tvg-logo=""  group-title="Series y Películas", HBO
 http://190.102.246.93:9005/play/a04l
 
 #EXTINF:-1 tvg-id="0813" tvg-name="HBO" tvg-logo=""  group-title="Series y Películas", HBO
 http://190.102.246.93:9005/play/a01a
 
-#EXTINF:-1 tvg-id="3813" tvg-name="HBO México" tvg-logo=""  group-title="Series y Películas", HBO Mexico
+#EXTINF:-1 tvg-id="3813" tvg-name="HBO" tvg-logo=""  group-title="Series y Películas", HBO Mexico
 http://45.5.117.57:8200/play/a0l2/index.m3u8
+
+#EXTINF:-1 tvg-id="0813" tvg-name="HBO Family" tvg-logo=""  group-title="Series y Películas", HBO Family
+http://190.102.246.93:9005/play/a01g
 
 #EXTINF:-1 tvg-id="0819" tvg-name="HBO Pop" tvg-logo=""  group-title="Series y Películas", HBO Pop
 http://190.102.246.93:9005/play/a05b
@@ -105,17 +114,74 @@ http://190.102.246.93:9005/play/a05b
 #EXTINF:-1 tvg-id="0820" tvg-name="HBO Xtreme" tvg-logo=""  group-title="Series y Películas", HBO Xtreme
 http://190.102.246.93:9005/play/a010
 
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo=""  group-title="Culturales", History
+http://190.102.246.93:9005/play/a047
+
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo=""  group-title="Culturales", Investigation Discovery
+http://190.102.246.93:9005/play/a02s
+
+#EXTINF:-1 tvg-id="0102" tvg-name="La Red" tvg-logo=""  group-title="Nacionales", La Red
+http://190.102.246.93:9005/play/a02c
+
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo=""  group-title="Series y Películas", Las Estrellas
+http://190.102.246.93:9005/play/a00u
+
+#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo=""  group-title="Nacionales", Mega
+http://190.102.246.93:9005/play/a05h
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo=""  group-title="Música", MTV
+http://190.102.246.93:9005/play/a00t
+
 #EXTINF:-1 tvg-id="" tvg-name="MX Classic" tvg-logo=""  group-title="Series y Películas", MX Classic
 http://190.102.246.93:9005/play/a03h
 
 #EXTINF:-1 tvg-id="" tvg-name="MX Family" tvg-logo=""  group-title="Series y Películas", MX Family
 http://190.102.246.93:9005/play/a03i
 
+#EXTINF:-1 tvg-id="" tvg-name="MX Prime" tvg-logo=""  group-title="Series y Películas", MX Prime
+http://190.102.246.93:9005/play/a03t
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat geo" tvg-logo=""  group-title="Culturales", Nat geo
+http://190.102.246.93:9005/play/a015
+
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo=""  group-title="Infantil", Nickelodeon
+http://190.102.246.93:9005/play/a02b
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo=""  group-title="Series y Películas", Paramount
+http://190.102.246.93:9005/play/a044
+
 #EXTINF:-1 tvg-id="0320" tvg-name="Senpai TV" tvg-logo=""  group-title="Anime", Senpai TV
 http://45.184.87.142:8000/play/a021
 
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo=""  group-title="Series y Películas", Sony
+http://190.102.246.93:9005/play/a021
+
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo=""  group-title="Series y Películas", Space
+http://190.102.246.93:9005/play/a04i
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo=""  group-title="Series y Películas", Star Channel
+http://190.102.246.93:9005/play/a01n
+
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo=""  group-title="Series y Películas", Studio Universal
+http://190.102.246.93:9005/play/a01e
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo=""  group-title="Series y Películas", TNT
+http://190.102.246.93:9005/play/a05p
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo=""  group-title="Series y Películas", TNT Series
+http://190.102.246.93:9005/play/a01u
+
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium" group-title="Deportes", TNT Sports Premium
 http://190.102.246.93:9005/play/a025
+
+#EXTINF:-1 tvg-id="0112" tvg-name="TV+" tvg-logo=""  group-title="Nacionales", TV+
+http://190.102.246.93:9005/play/a013
+
+#EXTINF:-1 tvg-id="0112" tvg-name="TVN" tvg-logo=""  group-title="Nacionales", TVN
+http://190.102.246.93:9005/play/a056
+
+#EXTINF:-1 tvg-id="0112" tvg-name="UCV" tvg-logo=""  group-title="Nacionales", UCV
+http://190.102.246.93:9005/play/a03o
 
 #EXTINF:-1 tvg-id="0844" tvg-name="Universal Premiere Este" tvg-logo=""  group-title="Series y Películas", Universal Premiere Este
 http://181.78.106.127:9000/play/a0qu/index.m3u8
@@ -128,6 +194,9 @@ http://207.248.2.105:3200/play/a0x1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Via X Esports" tvg-logo=""  group-title="Anime", Via X Esports
 http://207.248.2.105:3200/play/a0r5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo=""  group-title="Series y Películas", Warner
+http://190.102.246.93:9005/play/a04f
 
 #EXTINF:-1 tvg-id="0929" tvg-name="Azteca 7" tvg-logo=""  group-title="México", Azteca 7
 http://45.68.35.218:4001/play/a006/index.m3u8

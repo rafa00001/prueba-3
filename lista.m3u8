@@ -39,8 +39,47 @@ http://190.102.246.93:9005/play/a017
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo=""  group-title="Series y Películas", Comedy Central
 http://190.102.246.93:9005/play/a02r
 
-#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2" tvg-logo=""  group-title="Deportes", ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo=""  group-title="Culturales", Discovery
+http://190.102.246.93:9005/play/a046
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo=""  group-title="Culturales", Discovery H&H
+http://190.102.246.93:9005/play/a05s
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo=""  group-title="Infantil", Discovery Kids
+http://190.102.246.93:9005/play/a05r
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo=""  group-title="Culturales", Discovery Theater
+http://190.102.246.93:9005/play/a01m
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo=""  group-title="Culturales", Discovery World
+http://190.102.246.93:9005/play/a016
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo=""  group-title="Infantil", Disney
+http://190.102.246.93:9005/play/a02i
+
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo=""  group-title="Culturales", El Gourmet
+http://190.102.246.93:9005/play/a04a
+
+#EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2" tvg-logo=""  group-title="Deportes", ESPN 2
+http://190.102.246.93:9005/play/a05a
+
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2" tvg-logo=""  group-title="Deportes", ESPN 2 Chile
 http://190.102.246.93:9005/play/a02n
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo=""  group-title="Deportes", ESPN 3
+http://190.102.246.93:9005/play/a02l
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo=""  group-title="Deportes", ESPN 4
+http://190.102.246.93:9005/play/a04j
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo=""  group-title="Deportes", ESPN 5
+http://190.102.246.93:9005/play/a01q
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo=""  group-title="Deportes", ESPN 6
+http://190.102.246.93:9005/play/a01r
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo=""  group-title="Deportes", ESPN
+http://190.102.246.93:9005/play/a01w
 
 #EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium" tvg-logo=""  group-title="Deportes", ESPN Premium
 http://190.102.246.93:9005/play/a00x

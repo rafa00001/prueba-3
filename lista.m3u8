@@ -225,8 +225,8 @@ http://45.68.35.218:4001/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="0913" tvg-name="Canal 5" tvg-logo=""  group-title="México", Canal 5
 http://45.68.35.218:4001/play/a009/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="America TV" tvg-logo=""  group-title="Perú", America TV
+#EXTINF:-1 tvg-id="0955" tvg-name="America TV" tvg-logo=""  group-title="Perú", America TV
 http://207.248.2.105:3200/play/a0vh/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo=""  group-title="Perú", Latina
+#EXTINF:-1 tvg-id="0910" tvg-name="Latina" tvg-logo=""  group-title="Perú", Latina
 http://207.248.2.105:3200/play/a0vj/index.m3u8

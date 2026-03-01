@@ -181,7 +181,7 @@ http://190.102.246.93:9005/play/a05p
 http://190.102.246.93:9005/play/a01u
 
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium" group-title="Deportes", TNT Sports Premium
-http://190.102.246.93:9005/play/a025
+http://170.244.209.30:8000/play/a0s9/index.m3u8
 
 #EXTINF:-1 tvg-id="0112" tvg-name="TV+" tvg-logo=""  group-title="Nacionales", TV+
 http://190.102.246.93:9005/play/a013

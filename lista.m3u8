@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml"
+#EXTM3U url-tvg="https://puticastillo.github.io/EPGCL/vilma/visor.html"
 
 #EXTINF:-1 tvg-id="" tvg-name="+Cine" tvg-logo=""  group-title="Series y Películas", +Cine
 http://207.248.2.105:3200/play/a14h/index.m3u8

@@ -127,28 +127,28 @@ http://45.5.117.57:8200/play/a0l2/index.m3u8
 http://190.60.37.115:8001/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="0819" tvg-name="HBO Pop" tvg-logo=""  group-title="Series y Películas", HBO Pop
-http://190.102.246.93:9005/play/a05b
+http://190.60.37.115:8001/play/a0ww/index.m3u8
 
 #EXTINF:-1 tvg-id="0820" tvg-name="HBO Xtreme" tvg-logo=""  group-title="Series y Películas", HBO Xtreme
-http://190.102.246.93:9005/play/a010
+http://190.60.37.115:8001/play/a0am/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo=""  group-title="Culturales", History
-http://190.102.246.93:9005/play/a047
+http://190.60.37.115:8001/play/a0l2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo=""  group-title="Culturales", Investigation Discovery
-http://190.102.246.93:9005/play/a02s
+http://190.60.37.115:8001/play/a0lb/index.m3u8
 
 #EXTINF:-1 tvg-id="0102" tvg-name="La Red" tvg-logo=""  group-title="Nacionales", La Red
 http://190.102.246.93:9005/play/a02c
 
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo=""  group-title="Series y Películas", Las Estrellas
-http://190.102.246.93:9005/play/a00u
+http://190.60.37.115:8001/play/a0js/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo=""  group-title="Nacionales", Mega
-http://190.102.246.93:9005/play/a05h
+http://190.60.37.115:8001/play/a0ig/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo=""  group-title="Música", MTV
-http://190.102.246.93:9005/play/a00t
+http://190.60.37.115:8001/play/a0u2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MX Classic" tvg-logo=""  group-title="Series y Películas", MX Classic
 http://190.102.246.93:9005/play/a03h
@@ -160,10 +160,10 @@ http://190.102.246.93:9005/play/a03i
 http://190.102.246.93:9005/play/a03t
 
 #EXTINF:-1 tvg-id="" tvg-name="Nat geo" tvg-logo=""  group-title="Culturales", Nat geo
-http://190.102.246.93:9005/play/a015
+http://190.60.37.115:8001/play/a0l3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo=""  group-title="Infantil", Nickelodeon
-http://190.102.246.93:9005/play/a02b
+http://190.60.37.115:8001/play/a0ij/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo=""  group-title="Series y Películas", Paramount
 http://190.102.246.93:9005/play/a044
@@ -172,22 +172,25 @@ http://190.102.246.93:9005/play/a044
 http://45.184.87.142:8000/play/a021
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo=""  group-title="Series y Películas", Sony
-http://190.102.246.93:9005/play/a021
+http://190.60.37.115:8001/play/a0l8/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo=""  group-title="Series y Películas", Space
-http://190.102.246.93:9005/play/a04i
+http://190.60.37.115:8001/play/a0lc/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo=""  group-title="Series y Películas", Star Channel
-http://190.102.246.93:9005/play/a01n
+http://190.60.37.115:8001/play/a0lg/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo=""  group-title="Series y Películas", Studio Universal
-http://190.102.246.93:9005/play/a01e
+http://190.60.37.115:8001/play/a0j2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo=""  group-title="Series y Películas", TNT
-http://190.102.246.93:9005/play/a05p
+http://190.60.37.115:8001/play/a0l4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas" tvg-logo=""  group-title="Series y Películas", TNT Novelas
+http://190.60.37.115:8001/play/a0jy/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo=""  group-title="Series y Películas", TNT Series
-http://190.102.246.93:9005/play/a01u
+http://190.60.37.115:8001/play/a0id/index.m3u8
 
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium" group-title="Deportes", TNT Sports Premium
 http://190.60.37.115:8001/play/a0wu/index.m3u8
@@ -199,10 +202,13 @@ http://181.78.8.199:8000/play/a09g/index.m3u8
 http://190.102.246.93:9005/play/a013
 
 #EXTINF:-1 tvg-id="0112" tvg-name="TVN" tvg-logo=""  group-title="Nacionales", TVN
-http://190.102.246.93:9005/play/a056
+http://190.60.37.115:8001/play/a0j6/index.m3u8
 
 #EXTINF:-1 tvg-id="0112" tvg-name="UCV" tvg-logo=""  group-title="Nacionales", UCV
 http://190.102.246.93:9005/play/a03o
+
+#EXTINF:-1 tvg-id="0844" tvg-name="Universal" tvg-logo=""  group-title="Series y Películas", Universal
+http://190.60.37.115:8001/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="0844" tvg-name="Universal Premiere Este" tvg-logo=""  group-title="Series y Películas", Universal Premiere Este
 http://200.59.188.3:8000/play/a197
@@ -217,7 +223,7 @@ http://207.248.2.105:3200/play/a0x1/index.m3u8
 http://207.248.2.105:3200/play/a0r5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo=""  group-title="Series y Películas", Warner
-http://190.102.246.93:9005/play/a04f
+http://190.60.37.115:8001/play/a0l9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Zona Latina" tvg-logo=""  group-title="Nacionales", Zona Latina
 http://207.248.2.105:3200/play/a0x0/index.m3u8
@@ -237,6 +243,12 @@ http://190.60.37.115:8001/play/a0o8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Caracol 2" tvg-logo=""  group-title="Colombia", Caracol 2 HD
 http://190.60.37.115:8001/play/a0o8/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo=""  group-title="Colombia", RCN HD
+http://190.60.37.115:8001/play/a0o4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RCN 2" tvg-logo=""  group-title="Colombia", RCN 2 HD
+http://190.60.37.115:8001/play/a0o5/index.m3u8
+
 #EXTINF:-1 tvg-id="0929" tvg-name="Azteca 7" tvg-logo=""  group-title="México", Azteca 7
 http://45.68.35.218:4001/play/a006/index.m3u8
 
@@ -244,10 +256,10 @@ http://45.68.35.218:4001/play/a006/index.m3u8
 http://45.68.35.218:4001/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="0955" tvg-name="America TV" tvg-logo=""  group-title="Perú", America TV
-http://207.248.2.105:3200/play/a0vh/index.m3u8
+http://190.60.37.115:8001/play/a0j4/index.m3u8
 
 #EXTINF:-1 tvg-id="0910" tvg-name="Latina" tvg-logo=""  group-title="Perú", Latina
-http://207.248.2.105:3200/play/a0vj/index.m3u8
+http://190.60.37.115:8001/play/a0j5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo=""  group-title="USA", ABC
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
